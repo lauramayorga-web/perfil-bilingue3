@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Laura Paola Mayorga Bocanegra, Student / Web Programmer |
 
 | About | I am a web programming student with a knack for learning quickly and building websites from scratch. I focus both on visual design using CSS and the backend using Laravel and MySQL. I consider myself deeply committed to what I do, and I truly enjoy spending hours coding and watching projects come to life |
 
