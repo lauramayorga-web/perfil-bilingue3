@@ -1,9 +1,8 @@
 # Web Profile Template
 
-A bilingual personal profile page for students of **Técnico Profesional en Programación Web**
-at Institución Universitaria de El Espinal (UniEspinal).
+A bilingual personal profile page for students of **Técnico Profesional en Programación Web** at Institución Universitaria de El Espinal (UniEspinal).
 
-The page works in **Spanish and English**. Visitors change the language with one button.
+The page works in **Spanish and English**. Visitors can change the language with one button.
 
 ---
 
@@ -11,18 +10,41 @@ The page works in **Spanish and English**. Visitors change the language with one
 
 A public web page with six sections:
 
-| Section | What goes there |
-|---|---|
-| Home | Laura Paola Mayorga Bocanegra, Student / Web Programmer |
-
-| About | I am a web programming student with a knack for learning quickly and building websites from scratch. I focus both on visual design using CSS and the backend using Laravel and MySQL. I consider myself deeply committed to what I do, and I truly enjoy spending hours coding and watching projects come to life |
-
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Section  | What goes there                                         |
+| -------- | ------------------------------------------------------- |
+| Home     | Laura Paola Mayorga Bocanegra, Student / Web Programmer |
+| About    | A short personal description                            |
+| Skills   | Your technical and professional skills                  |
+| Resume   | Your education and your experience                      |
+| Projects | The projects you have built                             |
+| Contact  | How people can reach you                                |
 
 ---
+
+## About Me
+
+I am a web programming student.
+I study programming and web development.
+I enjoy creating websites.
+I like learning new technologies.
+I practice programming to improve my skills.
+
+---
+
+## My Skills
+
+### Technical Skills
+
+* **Laravel Development:** I can create web pages using Laravel.
+* **Database Management:** I can create and manage databases using MySQL.
+* **Web Development:** I can develop websites using HTML, CSS, PHP, and Laravel.
+
+### Professional Skills
+
+* **Creativity:** I develop creative ideas to solve different problems.
+* **Adaptability:** I adapt to changes and new situations easily.
+* **Perseverance:** I continue working until I achieve my goals.
+
 
 ## Before you start
 
